@@ -1,6 +1,6 @@
 # This is a large heading #
 ## this is a small one ##
-And as ** imagination** bodies forth,
+And as **imagination** bodies forth,
 The forms of things *unknown*, the poet's pen,
 Turns them to shapes and gives to airy nothing,
 A local *habitation* and a **name**.
@@ -20,6 +20,7 @@ a block
 of code
 ```
 
-Here is a link [a link] (https://www.wikipedia.org)
-![this is an image](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustaches.jpg)
+Here is  [a link](https://www.wikipedia.org)
+
+![this is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustaches.jpg)
 
